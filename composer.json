@@ -1,0 +1,19 @@
+{
+    "name": "vitorbari/lmbr-socialite-driver",
+    "description": "Leroy Merlin Brazil driver for Laravel Socialite",
+    "type": "library",
+    "require": {
+        "laravel/socialite": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LeroyMerlin\\Socialite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitor Bari Buccianti",
+            "email": "vitorbari@gmail.com"
+        }
+    ]
+}
