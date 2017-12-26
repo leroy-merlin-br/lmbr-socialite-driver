@@ -8,7 +8,7 @@
 You can install the package via composer:
 
 ```bash
-composer require vitorbari/lmbr-socialite-driver
+composer require leroy-merlin-br/lmbr-socialite-driver
 ```
 
 This service provider must be installed.
