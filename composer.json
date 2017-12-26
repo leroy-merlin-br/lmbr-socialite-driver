@@ -1,6 +1,8 @@
 {
     "name": "vitorbari/lmbr-socialite-driver",
     "description": "Leroy Merlin Brazil driver for Laravel Socialite",
+    "keywords": ["laravel","socialite","driver","authentication"],
+    "license": "MIT",
     "type": "library",
     "require": {
         "laravel/socialite": "^3.0"
