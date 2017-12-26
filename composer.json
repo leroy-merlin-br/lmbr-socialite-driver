@@ -15,5 +15,15 @@
         "psr-4": {
             "LeroyMerlin\\Socialite\\": "src/"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v1.0.x-dev"
+        },
+        "laravel": {
+            "providers": [
+                "LeroyMerlin\\Socialite\\ServiceProvider"
+            ]
+        }
     }
 }
