@@ -1,6 +1,8 @@
 {
     "name": "leroy-merlin-br/lmbr-socialite-driver",
     "description": "Leroy Merlin Brazil driver for Laravel Socialite",
+    "keywords": ["laravel","socialite","driver","authentication"],
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
