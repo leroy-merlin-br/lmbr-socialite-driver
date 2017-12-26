@@ -1,6 +1,6 @@
 # Leroy Merlin Brazil driver for Laravel Socialite
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/vitorbari/lmbr-socialite-driver.svg?style=flat-square)](https://packagist.org/packages/vitorbari/lmbr-socialite-driver)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/leroy-merlin-br/lmbr-socialite-driver.svg?style=flat-square)](https://packagist.org/packages/leroy-merlin-br/lmbr-socialite-driver)
 
 
 ## Installation
