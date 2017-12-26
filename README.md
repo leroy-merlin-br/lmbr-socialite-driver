@@ -11,7 +11,7 @@ You can install the package via composer:
 composer require leroy-merlin-br/lmbr-socialite-driver
 ```
 
-This service provider must be installed.
+This service provider must be installed. Skip if you are using Laravel 5.5+, this driver comes with auto discovery for providers.
 
 ```php
 // config/app.php
@@ -41,8 +41,6 @@ public function redirectToProvider()
 {
     return Socialite::driver('leroy-merlin')->redirect();
 }
-
-...
 
 public function handleProviderCallback()
 {
